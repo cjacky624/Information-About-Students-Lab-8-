@@ -1,0 +1,7 @@
+c:\users\user\source\repos\Lab 8 Final\Lab 8 Final\bin\Debug\Lab 8 Final.exe.config
+c:\users\user\source\repos\Lab 8 Final\Lab 8 Final\bin\Debug\Lab 8 Final.exe
+c:\users\user\source\repos\Lab 8 Final\Lab 8 Final\bin\Debug\Lab 8 Final.pdb
+c:\users\user\source\repos\Lab 8 Final\Lab 8 Final\obj\Debug\Lab 8 Final.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\Lab 8 Final\Lab 8 Final\obj\Debug\Lab 8 Final.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Lab 8 Final\Lab 8 Final\obj\Debug\Lab 8 Final.exe
+c:\users\user\source\repos\Lab 8 Final\Lab 8 Final\obj\Debug\Lab 8 Final.pdb
